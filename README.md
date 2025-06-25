@@ -47,6 +47,7 @@ EDA involves exploring the bank customer churn data to answer key questions, suc
 - Customers with 2 products have the lowest churn (7.6%) — a likely engagement sweet spot
 - Those with 3 or 4 products exhibit extremely high churn (82.7% and 100%)
 
+
 ### Recommendations
 1. For High-Risk Age Groups (45-64)
 - Targeted Retention Campaigns
