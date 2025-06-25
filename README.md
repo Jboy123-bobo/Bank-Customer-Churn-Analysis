@@ -1,12 +1,12 @@
 # Bank Customer Churn Analysis
 
 ### Project Objective 
-
+---
 This report provides a detailed analysis of customer churn patterns using internal bank data. 
 The aim is to identify churn drivers across multiple customer segments - including product usage, age, gender, geography, and account balance - and to develop actionable strategies to improve customer retention.
 
 ### Dataset Overview and Tools
-
+---
 No duplicates were found
 Blank values were treated, corrected spelling errors and data types errors, A new column was added the breakdown the age brackets of the customers for better insights
 All these where done using power query and Excel for analysis and Data Visualization 
@@ -20,6 +20,7 @@ The dataset consists of 10,000 customer records with the following key attribute
 - Balance, Tenure, and other relevant financial metrics
 
 ### Exploratory Data Analysis
+---
 EDA involves exploring the bank customer churn data to answer key questions, such as:
 
 -	What insights can you uncover from the data?
@@ -27,6 +28,7 @@ EDA involves exploring the bank customer churn data to answer key questions, suc
 -	Are there patterns that might predict which customers are most likely to churn?
 
 ### Key Insights/Findings
+---
 1. Churn customers by Age Group
 - Customers aged 45-54 (48.1%) and 55-64 (49.8%) show the highest churn rates.
 - These age brackets represent a high-risk segment, possibly due to:
@@ -50,6 +52,7 @@ EDA involves exploring the bank customer churn data to answer key questions, suc
 ![Annotation 2025-06-25 182051](https://github.com/user-attachments/assets/2caa5466-ec3c-48cd-93f5-894d245a6cbb)
 
 ### Recommendations
+---
 1. For High-Risk Age Groups (45-64)
 - Targeted Retention Campaigns
 - Personalized check-ins, loyalty programs, and birthday perks
@@ -72,6 +75,7 @@ EDA involves exploring the bank customer churn data to answer key questions, suc
 - Rethink Cross-Selling Strategy
 
 ### Conclusions
+---
 This analysis reveals that customer churn is influenced by a combination of demographic, behavioral, and financial factors.
 Age, gender, product load, and balance levels are all significant indicators of churn risk. To reduce churn and improve retention, the bank must:
 - Deliver personalized services across all customer types
