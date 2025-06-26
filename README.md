@@ -53,7 +53,8 @@ EDA involves exploring the bank customer churn data to answer key questions, suc
 - Customers with 2 products have the lowest churn (7.6%) — a likely engagement sweet spot
 - Those with 3 or 4 products exhibit extremely high churn (82.7% and 100%)
 
-![Annotation 2025-06-25 182051](https://github.com/user-attachments/assets/2caa5466-ec3c-48cd-93f5-894d245a6cbb)
+![new](https://github.com/user-attachments/assets/7f91c6cc-2883-44a5-9941-352e559c364e)
+
 
 ### Recommendations
 ---
