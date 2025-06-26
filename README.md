@@ -8,8 +8,8 @@ The aim is to identify churn drivers across multiple customer segments - includi
 ### Dataset Overview and Tools
 ---
 No duplicates were found
-Blank values were treated, corrected spelling errors and data types errors, A new column was added the breakdown the age brackets of the customers for better insights
-All these where done using power query and Excel for analysis and Data Visualization 
+Blank values were treated, corrected spelling errors and data types errors, A new column was added the breakdown customers ages into age brackets to identify trends across life stages.
+All these where done using Power query(for cleaning) and Excel(Pivot table and Data Visualization)
 
 The dataset consists of 10,000 customer records with the following key attributes:
 - Exited (1 = churned, 0 = stayed)
@@ -18,6 +18,10 @@ The dataset consists of 10,000 customer records with the following key attribute
 - Age (18-92)
 - Geography (France, Germany, Spain)
 - Balance, Tenure, and other relevant financial metrics
+
+![Annotation 2025-06-26 070653](https://github.com/user-attachments/assets/c9affc8d-7c54-426b-b25b-dcaa8ef37aec)
+
+
 
 ### Exploratory Data Analysis
 ---
@@ -60,7 +64,8 @@ EDA involves exploring the bank customer churn data to answer key questions, suc
 - Retirement-Focused Products
 - Pension savings plans, simplified investment options, estate planning etc.
 
-2. For Gender-Sensitive Engagement
+2. For Gender
+-Sensitive Engagement
 - Personalized Advisory Services
 - Improve Customer Experience
 - Segmented Marketing
