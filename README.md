@@ -5,11 +5,11 @@
 This report provides a detailed analysis of customer churn patterns using internal bank data. 
 The aim is to identify churn drivers across multiple customer segments - including product usage, age, gender, geography, and account balance - and to develop actionable strategies to improve customer retention.
 
-### Dataset Overview and Tools
+### Dataset Overview and Preparation
 ---
-No duplicates were found
+As part of the data preparation process, duplicates were removed using Power Query to maintain the integrity of the analysis.
 Blank values were treated, corrected spelling errors and data types errors, A new column was added the breakdown customers ages into age brackets to identify trends across life stages.
-All these where done using Power query(for cleaning) and Excel(Pivot table and Data Visualization)
+All these where done also with Power Query and Excel(Pivot table and Data Visualization).
 
 The dataset consists of 10,000 customer records with the following key attributes:
 - Exited (1 = churned, 0 = stayed)
@@ -53,7 +53,8 @@ EDA involves exploring the bank customer churn data to answer key questions, suc
 - Customers with 2 products have the lowest churn (7.6%) — a likely engagement sweet spot
 - Those with 3 or 4 products exhibit extremely high churn (82.7% and 100%)
 
-![new](https://github.com/user-attachments/assets/7f91c6cc-2883-44a5-9941-352e559c364e)
+
+![new](https://github.com/user-attachments/assets/a79c8323-b39d-4c2b-929c-d17ffb2f3730)
 
 
 ### Recommendations
